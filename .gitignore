@@ -32,6 +32,7 @@
 /build/
 .metadata
 pubspec.lock
+.vscode/launch.json
 
 # Web related
 lib/generated_plugin_registrant.dart
